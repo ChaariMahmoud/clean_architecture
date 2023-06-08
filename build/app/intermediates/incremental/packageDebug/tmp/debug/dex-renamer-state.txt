@@ -1,0 +1,4 @@
+#Thu Jun 08 15:05:57 CET 2023
+base.0=/home/dfs-user-005/repositories/clean/clean_flutter/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
